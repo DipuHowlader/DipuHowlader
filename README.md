@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DipuHowlader
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Back-end 
+- 🌱 I’m currently learning Full-stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
